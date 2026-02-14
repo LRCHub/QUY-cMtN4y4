@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "春奈るな 『glory days』（MusicVideo / YouTube EDIT）※劇場版『冴えない彼女の育てかた Fine』主題歌（2019.10.23 Release）",
+  "base_artist": "春奈るな",
+  "createdAt": "2026-02-14T15:45:46.074545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.-",
+      "artist": "Luna Haruna",
+      "has_synced": false,
+      "path": "select/01_snowdrop_-春奈るな×河野マリナver.-_Luna_Haruna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ TV size ver.-",
+      "artist": "春奈るな×河野マリナ",
+      "has_synced": false,
+      "path": "select/02_snowdrop_-春奈るな×河野マリナ_TV_size_ver.-_春奈るな×河野マリナ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.-",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/03_snowdrop_-春奈るな×河野マリナver.-_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ TV size ver.-",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/04_snowdrop_-春奈るな×河野マリナ_TV_size_ver.-_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ ver.-",
+      "artist": "Haruna, Luna×Kawano, Marina",
+      "has_synced": true,
+      "path": "select/05_snowdrop_-春奈るな×河野マリナ_ver.-_Haruna,_Luna×Kawano,_Marina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ TV size ver.-",
+      "artist": "春奈るな×河野万里奈",
+      "has_synced": false,
+      "path": "select/06_snowdrop_-春奈るな×河野マリナ_TV_size_ver.-_春奈るな×河野万里奈.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな ver.-",
+      "artist": "春奈るな",
+      "has_synced": true,
+      "path": "select/07_snowdrop_-春奈るな_ver.-_春奈るな.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "snowdrop　-春奈るな×河野マリナver.-",
+      "artist": "Luna Haruna",
+      "has_synced": true,
+      "path": "select/08_snowdrop_-春奈るな×河野マリナver.-_Luna_Haruna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.- - Luna Haruna X Marina Kawano version",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/09_snowdrop_-春奈るな×河野マリナver.-_-_Luna_Haruna_X_Marina_Kawano_version_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.- - Luna Haruna X Marina Kawano version",
+      "artist": "Haruna, Luna",
+      "has_synced": false,
+      "path": "select/10_snowdrop_-春奈るな×河野マリナver.-_-_Luna_Haruna_X_Marina_Kawano_version_Haruna,_Luna.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.- - Luna Haruna X Marina Kawano version",
+      "artist": "Monogatari Series",
+      "has_synced": false,
+      "path": "select/11_snowdrop_-春奈るな×河野マリナver.-_-_Luna_Haruna_X_Marina_Kawano_version_Monogatari_Series.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ ver.-",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/12_snowdrop_-春奈るな×河野マリナ_ver.-_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.-",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_snowdrop_-春奈るな×河野マリナver.-_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナ TV size ver.-",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/14_snowdrop_-春奈るな×河野マリナ_TV_size_ver.-_春奈るな.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "snowdrop -春奈るな×河野マリナver.-",
+      "artist": "神前暁",
+      "has_synced": true,
+      "path": "select/15_snowdrop_-春奈るな×河野マリナver.-_神前暁.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "glory days",
+      "artist": "春奈るな",
+      "has_synced": false,
+      "path": "select/pl_01_glory_days_春奈るな.txt"
+    }
+  ]
+}
